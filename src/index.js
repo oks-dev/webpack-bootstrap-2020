@@ -1,1 +1,2 @@
-console.log('test')
+import 'bootstrap';
+import $ from 'jquery';
